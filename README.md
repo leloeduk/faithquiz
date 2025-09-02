@@ -1,16 +1,17 @@
-# faithquiz
+# FaithQuiz
 
-A new Flutter project.
+FaithQuiz est une application mobile Flutter de quiz biblique multi-niveaux et multi-catégories.  
+L'application propose :  
 
-## Getting Started
+- 4 niveaux : Débutant, Moyen, Avancé, Expert  
+- 20 catégories par niveau  
+- Quiz chronométré (10 secondes par question)  
+- Classement local (Hive)  
+- Partage des scores sur WhatsApp / Facebook  
+- Publicités (Google Ads) : Banner + Interstitial  
+- Multi-langues (FR / EN)  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Structure du projet
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
