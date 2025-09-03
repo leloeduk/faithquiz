@@ -54,4 +54,16 @@ class Question extends HiveObject {
       'category': category,
     };
   }
+
+  Question copyWith({required int userAnswerIndex}) {
+    // Example: returns a copy of the question (userAnswerIndex is not used here)
+    return Question(
+      id: id,
+      question: question,
+      options: options,
+      correctIndex: correctIndex,
+      verse: verse,
+      category: category,
+    );
+  }
 }
